@@ -7372,6 +7372,13 @@ h2{
 body{
   background-color: #E8E8E8;
 }
+.aboutme{
+  justify-content: center;
+  display: flex;
+  padding-right: 18px;
+
+}
+
 
 
 /*# sourceMappingURL=kit-free.css.map */
